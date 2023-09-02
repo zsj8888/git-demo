@@ -3,3 +3,4 @@ hello git
 hello git 2 commit
 hello git 3 commit
 hello git hot-fix commit
+hello git hot-fix
